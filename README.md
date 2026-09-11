@@ -1,5 +1,5 @@
 <!-- app-release:start -->
-[**Descargar APK actual v0.8**](https://github.com/ricardoyf/NotasVozLocal/releases/download/v0.8-ideas-icon/NotasVozLocal-v0.8-ideas-icon.apk) · [SHA-256](https://github.com/ricardoyf/NotasVozLocal/releases/download/v0.8-ideas-icon/NotasVozLocal-v0.8-ideas-icon.apk.sha256)
+[**Descargar APK actual v0.8**](https://github.com/ricardoyf/NotasVozLocal/raw/refs/tags/v0.8-ideas-icon/release-artifacts/v0.8-ideas-icon/NotasVozLocal-v0.8-ideas-icon.apk) · [SHA-256](https://github.com/ricardoyf/NotasVozLocal/raw/refs/tags/v0.8-ideas-icon/release-artifacts/v0.8-ideas-icon/NotasVozLocal-v0.8-ideas-icon.apk.sha256)
 
 Versión objetivo conservada: [v0.7-simple-swipes](https://github.com/ricardoyf/NotasVozLocal/releases/tag/v0.7-simple-swipes).
 
